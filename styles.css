@@ -423,6 +423,10 @@
     background-image: url(./images/projects/project2.png);
     align-self: flex-end;
 }
+
+#project3{
+    background-image: url(./images/projects/project3.png);
+}
 /* ---------Projects-section End----------- */
 
 /* ---------Skills-section Starting----------- */
@@ -511,7 +515,7 @@
 /* ---------Skills-section End----------- */
 
 /* ---------Contact-section Starting----------- */
-.contact-section-container{
+/* .contact-section-container{
     background-color: rgb(231,231,231);
     margin-top: -2.8rem;
     padding-top:2rem;
@@ -562,7 +566,7 @@ form{
 
 .form-btn:hover{
     transform: scale(0.9);
-}
+} */
 
 /* ---------Contact-section Starting----------- */
 
